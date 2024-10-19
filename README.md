@@ -50,7 +50,7 @@ This backend repository contains the server code for the Logistics Management Sy
    npm server
    ```
 
-   The backend server will run on http://localhost:8080.
+   The backend server will run on http://localhost:8000.
 
 2. Start the frontend development server:
 

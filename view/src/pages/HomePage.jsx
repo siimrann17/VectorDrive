@@ -8,19 +8,16 @@ const HomePage = () => {
           <div className="container">
             <div className="hero-content">
               <p className="hero-subtitle has-before">
-                Wellcome to Our Website
+                Welcome to Our Website
               </p>
 
               <h1 className="h1 hero-title">
-                to every
-                <i> DIRECTION</i> for you we deliver.
+                Delivering to every
+                <i> DESTINATION, </i> just for you!
               </h1>
 
               <p className="hero-text">
-                Donec tincidunt lacinia diam, eu volutpat est sollicitudin at.
-                Vestibulum ut mi tristi que, vulputate ante quis, tempus enim.
-                Proin quis euismod purus. Suspen disse efficitur aliquam enim
-                sed consequat vulputate ante quis.
+                Optimize your logistics journey: quick, reliable, and at your fingertips! 
               </p>
 
               <div className="btn-group">

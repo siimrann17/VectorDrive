@@ -21,13 +21,13 @@ const Navbar = () => {
     <header className="header active">
       <div className="container">
         <Link to="/" className="logo">
-          Fleeto
+        VectorDrive
         </Link>
 
         <nav className={`navbar ${isMobileMenuOpen ? "active" : ""}`}>
           <div className="wrapper">
             <Link to="/" className="logo">
-              Fleeto
+              VectorDrive
             </Link>
             <button className="nav-close-btn">
               {" "}
