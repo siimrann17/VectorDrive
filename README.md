@@ -20,7 +20,7 @@ This backend repository contains the server code for the Logistics Management Sy
 1. Clone the repository:
 
    ```
-   git clone https://github.com/DishaGup/track-order.git
+   git clone https://github.com/siimrann17/VectorDrive
    ```
 
 2. Navigate to the project directory:
@@ -150,7 +150,7 @@ This backend logs HTTP requests using the `morgan` middleware. Logs are written 
 
 The backend includes basic error handling for API routes. Errors are returned in a standardized format with appropriate HTTP status codes.
 
-## Snapshots
+<!-- ## Snapshots
 
 ![homepage](https://github.com/DishaGup/track-order/assets/115460391/d85ee05d-80fc-4c47-8152-fcc4b1e26396)
 
@@ -160,6 +160,6 @@ The backend includes basic error handling for API routes. Errors are returned in
 
 ---
 
-![order](https://github.com/DishaGup/track-order/assets/115460391/f07910ce-557f-4e2e-9c25-a58d8130589b)
+![order](https://github.com/DishaGup/track-order/assets/115460391/f07910ce-557f-4e2e-9c25-a58d8130589b) -->
 
 
